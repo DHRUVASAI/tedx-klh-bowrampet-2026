@@ -21,7 +21,6 @@ export const MetamorphosisIntro: React.FC<MetamorphosisIntroProps> = ({
       setVideoLoaded(false);
       setShowSkip(false);
       setFadeOut(false);
-      setProgress(0);
       return;
     }
 
