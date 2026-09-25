@@ -20,7 +20,7 @@ const experienceData: Record<TabKey, TabData> = {
       'Ergonomic tiered seating with perfect sightlines',
     ],
     tag: 'Stage 01 · The Crucible',
-    img: 'https://lh3.googleusercontent.com/aida/AEtjO1ViM1srNMCvB2_VU6iwJWgzQ_l6Jbs1zQIa-bDVIY-zQ3FLezBOONjwXPUD7tXjkHCQ-Ol0CyliFkzgP39jpYlNA4-TyJazKxidtmhGbHF-N4_loCBRRtA1NrZlaZbaSWONXSjUjesQiq8ETWYmUKqSJUfoxp6YfPXr_M2zDzlgLrtCQMkrAyUjltKiGuWiLF5NvRBnrGH-DQriRWgAVAuv7su1eA6X45bHl3EyTp_ub7_UlNIqfGsdsQ',
+    img: 'https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=900&auto=format&fit=crop&q=80',
   },
   pavilions: {
     title: 'The Blueprint Pavilions: Tactile Prototype Hubs',
@@ -31,7 +31,7 @@ const experienceData: Record<TabKey, TabData> = {
       'High-speed campus fiber networking zones',
     ],
     tag: 'Stage 02 · Crystalline Wireframes',
-    img: 'https://lh3.googleusercontent.com/aida-public/AB6AXuAKWgE7bSrF5_wqIrSN9HrB_MadNs1jqFImtv84aum5O_88Ex2tFats7AbDyYn4UP70l5ZsMEFKgxcwhN9hG8D3EQ34sVth9NayInO3LV9HvIogSW0Miyhlg6U7BWUjq8z5HS_th_lHt3aozwN69oSKtrBAort3lcGpdmF7DxdmGk-JxSW4rL845j0zbn-Z2IM_GcezLEpLn4sFAWcTtIIyY4IBmZHuWXH7iCAhqEcS48kFHtsmaF44pnsFnla4vJqiew',
+    img: 'https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=900&auto=format&fit=crop&q=80',
   },
   mixer: {
     title: 'The Emergence Soirée: Networking Lounge & High Tea',
@@ -42,7 +42,7 @@ const experienceData: Record<TabKey, TabData> = {
       'Included for all registered Metamorphosis delegates',
     ],
     tag: 'Stage 03 · The Emergence',
-    img: 'https://lh3.googleusercontent.com/aida-public/AB6AXuCUePfEx3-skaSVCoadOzBm8iG3q_j7dlCNDAshNNpYruzAjCOztn94GXqK6TuWTpWjAYZKb8vJovRrCRsuXkx9uUQYE1a8HBAsaTUZwlcQ7AgyHeq8193SqrvJgrUjw8EHB6w2RREOmKA8Ys-n_BfmC8MW2qxgoTLInKS1_BB2nXZZkRZGmk9lfUov1NjGpeHlexBz6kar6lJcdf62mq1PqPirRoM4UtgPStD8jZ9f4DHacYioM_zy',
+    img: 'https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=900&auto=format&fit=crop&q=80',
   },
 };
 
