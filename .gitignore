@@ -1,0 +1,11 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Large root-level video duplicate (served from public/ instead)
+Animating_butterfly_transformati*.mp4

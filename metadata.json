@@ -1,0 +1,6 @@
+{
+  "name": "TEDx KLH Bowrampet 2026",
+  "description": "Official event stage and delegate registration portal for TEDx KLH Bowrampet 2026 at KLH University, Hyderabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

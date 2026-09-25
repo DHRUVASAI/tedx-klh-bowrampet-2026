@@ -1,0 +1,11 @@
+# Normalize line endings
+* text=auto eol=lf
+
+# Binary files — never diff/merge
+*.mp4 binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ico binary
+*.woff binary
+*.woff2 binary
