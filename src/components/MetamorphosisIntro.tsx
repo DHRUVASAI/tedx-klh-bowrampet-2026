@@ -66,7 +66,7 @@ export const MetamorphosisIntro: React.FC<MetamorphosisIntroProps> = ({
       {/* ── VIDEO — full bleed, butterfly centred ── */}
       <video
         ref={videoRef}
-        className="absolute inset-0 w-full h-full object-cover object-center"
+        className="absolute inset-0 w-full h-full object-contain object-center"
         src="/butterfly-transformation.mp4"
         autoPlay
         muted
